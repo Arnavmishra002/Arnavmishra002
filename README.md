@@ -18,7 +18,7 @@ I enjoy taking an idea through the whole engineering cycle: building the model o
 | [AVH-Align / LAV-DF Baseline](https://github.com/Arnavmishra002/avhalign-lavdf-baseline) | Reproducible audiovisual deepfake-detection baseline with clip splits, per-clip scoring, and a model-comparison harness. |
 | [Threat Intelligence Dashboard](https://github.com/Arnavmishra002/threat-intel-dashboard) | React and TypeScript dashboard for exploring suspicious traffic, anomalies, and session-level evidence. |
 | [Collaborative Task Manager](https://github.com/Arnavmishra002/my-task-manager) | Full-stack task management with React, Express, JWT authentication, and Socket.IO updates. |
-| [Movie Recommendation System](https://github.com/Arnavmishra002/Movie-Recommendation-System) | Item-based collaborative filtering using Hadoop MapReduce. |
+| [Movie Recommendation System (fork)](https://github.com/Arnavmishra002/Movie-Recommendation-System) | Fork of [coffee183's project](https://github.com/coffee183/Movie-Recommendation-System), exploring item-based collaborative filtering using Hadoop MapReduce. |
 
 ## Tools I Work With
 
