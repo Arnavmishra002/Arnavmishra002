@@ -26,6 +26,6 @@ Python, Django, FastAPI, JavaScript, TypeScript, React, Node.js, PostgreSQL, Red
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mishraarnav02) · [GitHub projects](https://github.com/Arnavmishra002?tab=repositories)
+[Portfolio](https://arnavmishra002.github.io/) · [LinkedIn](https://www.linkedin.com/in/mishraarnav02) · [Kaggle](https://www.kaggle.com/arnavmishra02) · [GitHub projects](https://github.com/Arnavmishra002?tab=repositories)
 
 Learning by building, measuring, and improving.
