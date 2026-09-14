@@ -22,18 +22,25 @@ I enjoy taking an idea through the whole engineering cycle: building the model o
 | [Collaborative Task Manager](https://github.com/Arnavmishra002/my-task-manager) | Full-stack task management with React, Express, JWT authentication, and Socket.IO updates. |
 | [Movie Recommendation System (fork)](https://github.com/Arnavmishra002/Movie-Recommendation-System) | Fork of [coffee183's project](https://github.com/coffee183/Movie-Recommendation-System), exploring item-based collaborative filtering using Hadoop MapReduce. |
 
-## Render Deployments
+## Deployed Projects
 
 | Project | Deployed app | Source |
 | --- | --- | --- |
-| KrishiMitra | [Open agricultural advisory app](https://agri-advisory-web.onrender.com/) | [GitHub](https://github.com/Arnavmishra002/agri_advisory_app) |
+| KrishiMitra | [Open agricultural advisory app](https://agri-advisory-app.vercel.app/) · [Render alternate](https://agri-advisory-web.onrender.com/) | [GitHub](https://github.com/Arnavmishra002/agri_advisory_app) |
 | Threat Intelligence Dashboard | [Open dashboard](https://bot-detection-dashboard.onrender.com/) | [GitHub](https://github.com/Arnavmishra002/threat-intel-dashboard) |
 | Collaborative Task Manager | [Open task manager](https://task-manager-client-u9sf.onrender.com/) | [GitHub](https://github.com/Arnavmishra002/my-task-manager) |
 | TrustFi | [Open TrustFi](https://trustfi-frontend.onrender.com/) | Private source |
 
 [Earlier KrishiMitra deployment](https://krishmitra-zrk4.onrender.com/) - an older version; use the primary app above for the latest deployment.
 
-These projects use Render's free hosting. A sleeping instance may take 50 seconds or more to start. Deployment links are not a guarantee that every feature or upstream service is currently available.
+KrishiMitra is an **evaluation preview**, not a completed farmer launch. Recent
+work covers API routing, profile-save race conditions, location-aware weather
+answers, and truthful AI fallback labels. Official mandi rows retain their
+reported dates; missing fresh prices are not replaced with estimates.
+
+The KrishiMitra frontend is hosted on Vercel with its API on Render. Projects
+using Render's free hosting may take 50 seconds or more to wake up. Deployment
+links are not a guarantee that every feature or upstream service is available.
 
 ## Tools I Work With
 
